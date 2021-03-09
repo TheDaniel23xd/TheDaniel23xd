@@ -7,7 +7,7 @@
     
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Daniel Diaz a Full Stack Developer.
+### Hello! I'm Daniel Diaz a Front-end Developer.
 
 ### Portfolio: thedaniel23xd.github.io/
 
