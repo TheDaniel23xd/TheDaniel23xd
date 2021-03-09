@@ -9,7 +9,7 @@
 
 ### Hello! I'm Daniel Diaz a Front-end Developer.
 
-### Portfolio: [thedaniel23xd.github.io](thedaniel23xd.github.io)
+### Portfolio: [thedaniel23xd.github.io](https://thedaniel23xd.github.io/)
 
 <a href="https://www.linkedin.com/in/daniel-alexander-diaz-carcamo-036a50190">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
