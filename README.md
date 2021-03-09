@@ -1,12 +1,15 @@
 
 
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/46628892?s=460&u=4bc1d2de4ad016220fc755df3b32dd8570f3c3a8&v=4" />
+   <h3 align="center">¡Hey 👋! Soy TheDaniel23xd 👨🏻‍💻</h3>
+</p>
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Hello! I'm Daniel Diaz a Full Stack Developer.
 
-### Portfolio: https://brdhanani.github.io
+### Portfolio: thedaniel23xd.github.io/
 
 <a href="https://twitter.com/dhanani_brijesh">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -46,7 +49,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-⭐️ From [@BRdhanani](https://github.com/TheDaniel23xd)
+⭐️ From [@TheDaniel23xd](https://github.com/TheDaniel23xd)
 
 
 
