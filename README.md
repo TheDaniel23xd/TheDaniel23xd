@@ -1,4 +1,5 @@
 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/46628892?s=460&u=4bc1d2de4ad016220fc755df3b32dd8570f3c3a8&v=4" />
@@ -18,7 +19,8 @@
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<img align="right" alt="GIF"    src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right"  align="center" alt="GIF"  width="420"   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br/>
   
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table>
@@ -74,5 +76,4 @@
 
 ⭐️ From [@TheDaniel23xd](https://github.com/TheDaniel23xd)
 
-
-
+<img src="https://imgur.com/rilHVxA.png"/>
