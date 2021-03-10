@@ -14,10 +14,10 @@
 ### Sitio Web: [thedaniel23xd.com](https://thedaniel23xd.github.io/)
 
 <a href="https://www.linkedin.com/in/daniel-alexander-diaz-carcamo-036a50190">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1615408677~hmac=2f080eb322f90c8e68143520bdc9e41e" />
 </a>
 <a href="https://www.instagram.com/thedaniel23xd_/">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://www.flaticon.es/svg/vstatic/svg/174/174855.svg?token=exp=1615408555~hmac=ca4796a50baaa1208d2a9a41a4be964b" />
 </a>
 
 <img align="right"  align="center" alt="GIF"  width="420"   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
