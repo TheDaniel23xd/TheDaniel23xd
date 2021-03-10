@@ -20,8 +20,8 @@
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://www.flaticon.es/svg/vstatic/svg/174/174855.svg?token=exp=1615408555~hmac=ca4796a50baaa1208d2a9a41a4be964b" />
 </a>
 
-<img align="right"  align="center" alt="GIF"  width="400"   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<br/>
+<img align="right"  align="center" alt="GIF"  width="350"   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br><br><br>
   
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table>
