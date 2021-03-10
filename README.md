@@ -18,13 +18,9 @@
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br />
-<br />
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF"    src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
 <table>
   <tbody>
     <tr valign="top">
@@ -59,18 +55,18 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁</span><br><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
