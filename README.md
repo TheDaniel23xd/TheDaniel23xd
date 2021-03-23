@@ -17,7 +17,7 @@
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1615408677~hmac=2f080eb322f90c8e68143520bdc9e41e" />
 </a>
 <a href="https://www.instagram.com/thedaniel23xd_/">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="![image](https://user-images.githubusercontent.com/46628892/112083008-f0947000-8b4b-11eb-9044-d64eff1fd505.png)" />
+  <img align="left" alt="thedaniel23xd_" width="22px" src="https://user-images.githubusercontent.com/46628892/112083008-f0947000-8b4b-11eb-9044-d64eff1fd505.png" />
 </a>
 
 <img align="right"   alt="GIF"  width="350"   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br><br><br>
