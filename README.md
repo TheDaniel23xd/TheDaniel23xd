@@ -14,7 +14,7 @@
 ### Sitio Web: [thedaniel23xd.com](https://thedaniel23xd.github.io/)
 
 <a href="https://www.linkedin.com/in/daniel-alexander-diaz-carcamo-036a50190">
-  <img align="left" alt="Daniel Alexander" width="22px" src="https://pics.freeicons.io/uploads/icons/png/1540830631579774618-512.png" />
+  <img align="left" alt="Daniel Alexander" width="22px" src="https://jesusrivas.com/wp-content/uploads/2019/08/Logo-Linkedin.png" />
 </a>
 <a href="https://www.instagram.com/thedaniel23xd_/">
   <img align="left" alt="thedaniel23xd_" width="22px" src="https://user-images.githubusercontent.com/46628892/112083008-f0947000-8b4b-11eb-9044-d64eff1fd505.png" />
