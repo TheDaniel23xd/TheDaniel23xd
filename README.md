@@ -46,10 +46,6 @@
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="20%" align="center">
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
@@ -61,12 +57,12 @@
         <span>𝗚𝗶𝘁</span><br><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
+       <td width="20%" align="center">
         <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
       </td>
+    </tr>
+    <tr valign="top">
        <td width="20%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
