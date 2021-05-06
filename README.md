@@ -14,7 +14,7 @@
 ### Sitio Web: [thedaniel23xd.com](https://thedaniel23xd.github.io/)
 
 <a href="https://www.linkedin.com/in/daniel-alexander-diaz-carcamo-036a50190">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1615408677~hmac=2f080eb322f90c8e68143520bdc9e41e" />
+  <img align="left" alt="Daniel Alexander" width="22px" src="https://img2.freepng.es/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" />
 </a>
 <a href="https://www.instagram.com/thedaniel23xd_/">
   <img align="left" alt="thedaniel23xd_" width="22px" src="https://user-images.githubusercontent.com/46628892/112083008-f0947000-8b4b-11eb-9044-d64eff1fd505.png" />
