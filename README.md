@@ -11,7 +11,7 @@
 ### Hello! I'm Daniel Diaz a Front-end Developer.
 
 ### Repositorios: [thedaniel23xd.github.io](https://github.com/TheDaniel23xd/thedaniel23xd.github.io)
-### Sitio Web: [thedaniel23xd.com](https://thedaniel23xd.github.io/)
+### Sitio Web: [thedaniel23xd.netlify.app](https://thedaniel23xd.netlify.app)
 
 <a href="https://www.linkedin.com/in/daniel-alexander-diaz-carcamo-036a50190">
   <img align="left" alt="Daniel Alexander" width="22px" src="https://anka.com.co/wp-content/uploads/2017/04/Linkedin-Download-PNG.png" />
