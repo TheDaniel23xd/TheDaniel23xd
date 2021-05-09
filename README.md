@@ -20,6 +20,8 @@
   <img align="left" alt="thedaniel23xd_" width="22px" src="https://user-images.githubusercontent.com/46628892/112083008-f0947000-8b4b-11eb-9044-d64eff1fd505.png" />
 </a>
 
+[![GitHub Daniel Diaz](https://img.shields.io/github/followers/TheDaniel23xd?label=follow&style=social)](https://https://github.com/TheDaniel23xd)
+
 <img align="right"   alt="GIF"  width="350"   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br><br><br>
 
   
