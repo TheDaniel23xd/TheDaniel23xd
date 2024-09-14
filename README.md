@@ -1,4 +1,4 @@
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM4YWJjdzBkajAxbmpwaTF3eHlnbTZ4ZHZ5NDJveHF2b2ZzczBoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/> Bienvenid@ al Github de   TheDaniel23xd
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM4YWJjdzBkajAxbmpwaTF3eHlnbTZ4ZHZ5NDJveHF2b2ZzczBoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/> Welcome to TheDaniel23xd's Github 🖐️
 
 
 ![Banner de TheDaniel23xd](github-header-image%20(2).png)
@@ -9,16 +9,16 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](#) 
 [![GitHub Daniel Diaz](https://img.shields.io/github/followers/TheDaniel23xd?label=follow&style=social)](https://https://github.com/TheDaniel23xd) 
 
-## Descripcion 
+## Description  
 <p>Front-End Developer | HTML, CSS, JavaScript, React
 
-Apasionado por crear experiencias de usuario intuitivas y eficientes. Con experiencia en el desarrollo de interfaces web modernas y responsivas utilizando tecnologías como HTML, CSS, JavaScript y frameworks como React. Comprometido con el rendimiento, la accesibilidad y el diseño centrado en el usuario.</p>
+Passionate about creating intuitive and efficient user experiences. Experienced in developing modern, responsive web interfaces using technologies like HTML, CSS, JavaScript, and frameworks such as React. Committed to performance, accessibility, and user-centered design.</p>
 
  <div id="header" align="center">
   <img   alt="GIF"  width="350"src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/> 
 </div>
 
-  ## Tecnologias 💻
+  ## Technology 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,12 +35,12 @@ Apasionado por crear experiencias de usuario intuitivas y eficientes. Con experi
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Las estadisticas del repositorio
+## Repository statistics
 ![TheDaniel23xd GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDaniel23xd&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel23xd&layout=compact&theme=dark)
 
- ### Repositorios: [thedaniel23xd.github.io](https://github.com/TheDaniel23xd/thedaniel23xd.github.io)
-### Sitio Web: [thedaniel23xd.netlify.app](https://thedaniel23xd.netlify.app)
+ ### Repositories: [thedaniel23xd.github.io](https://github.com/TheDaniel23xd/thedaniel23xd.github.io)
+### Web Site: [thedaniel23xd.netlify.app](https://thedaniel23xd.netlify.app)
 
 
 ⭐️ From [@TheDaniel23xd](https://github.com/TheDaniel23xd)
