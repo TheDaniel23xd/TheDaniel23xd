@@ -9,6 +9,11 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](#) 
 [![GitHub Daniel Diaz](https://img.shields.io/github/followers/TheDaniel23xd?label=follow&style=social)](https://https://github.com/TheDaniel23xd) 
 
+## Descripcion 
+<p>Front-End Developer | HTML, CSS, JavaScript, React
+
+Apasionado por crear experiencias de usuario intuitivas y eficientes. Con experiencia en el desarrollo de interfaces web modernas y responsivas utilizando tecnologías como HTML, CSS, JavaScript y frameworks como React. Comprometido con el rendimiento, la accesibilidad y el diseño centrado en el usuario.</p>
+
  <div id="header" align="center">
   <img   alt="GIF"  width="350"src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/> 
 </div>
@@ -30,6 +35,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## Las estadisticas del repositorio
 ![TheDaniel23xd GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDaniel23xd&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel23xd&layout=compact&theme=dark)
 
