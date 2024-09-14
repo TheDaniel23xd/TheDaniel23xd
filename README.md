@@ -31,7 +31,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![TheDaniel23xd GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDaniel23xd&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel23xd&layout=compact&theme=dark)
 
  ### Repositorios: [thedaniel23xd.github.io](https://github.com/TheDaniel23xd/thedaniel23xd.github.io)
