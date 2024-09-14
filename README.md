@@ -1,77 +1,42 @@
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM4YWJjdzBkajAxbmpwaTF3eHlnbTZ4ZHZ5NDJveHF2b2ZzczBoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/> Bienvenid@ al Github de   TheDaniel23xd
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/46628892?s=460&u=4bc1d2de4ad016220fc755df3b32dd8570f3c3a8&v=4" />
-   <h3 align="center">¡Hey 👋! Soy TheDaniel23xd 👨🏻‍💻</h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-</p>
-    
- 
+![Banner de TheDaniel23xd](github-header-image%20(2).png)
 
-### Hello! I'm Daniel Diaz a Front-end Developer.
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thedaniel23xd) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thedaniel23xd_/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alexander-diaz/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](#) 
+[![GitHub Daniel Diaz](https://img.shields.io/github/followers/TheDaniel23xd?label=follow&style=social)](https://https://github.com/TheDaniel23xd) 
 
-### Repositorios: [thedaniel23xd.github.io](https://github.com/TheDaniel23xd/thedaniel23xd.github.io)
+ <div id="header" align="center">
+  <img   alt="GIF"  width="350"src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/> 
+</div>
+
+  ## Tecnologias 💻
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![TheDaniel23xd GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDaniel23xd&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel23xd&layout=compact&theme=dark)
+
+ ### Repositorios: [thedaniel23xd.github.io](https://github.com/TheDaniel23xd/thedaniel23xd.github.io)
 ### Sitio Web: [thedaniel23xd.netlify.app](https://thedaniel23xd.netlify.app)
 
-<a href="https://www.linkedin.com/in/daniel-alexander-diaz-carcamo-036a50190">
-  <img align="left" alt="Daniel Alexander" width="22px" src="https://anka.com.co/wp-content/uploads/2017/04/Linkedin-Download-PNG.png" />
-</a>
-<a href="https://www.instagram.com/thedaniel23xd_/">
-  <img align="left" alt="thedaniel23xd_" width="22px" src="https://user-images.githubusercontent.com/46628892/112083008-f0947000-8b4b-11eb-9044-d64eff1fd505.png" />
-</a>
-
-[![GitHub Daniel Diaz](https://img.shields.io/github/followers/TheDaniel23xd?label=follow&style=social)](https://https://github.com/TheDaniel23xd)
-
-<img align="right"   alt="GIF"  width="350"   src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br><br><br>
-
-  
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-       <td width="20%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-       <td width="20%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-       <td width="20%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ⭐️ From [@TheDaniel23xd](https://github.com/TheDaniel23xd)
 
